@@ -1,1 +1,1 @@
-# go-blueprints
+# go-examples
